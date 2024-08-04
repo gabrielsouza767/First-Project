@@ -1,0 +1,7 @@
+D:\OlaMundo\OlaMundo\Exer02\bin\Debug\Exer02.exe.config
+D:\OlaMundo\OlaMundo\Exer02\bin\Debug\Exer02.exe
+D:\OlaMundo\OlaMundo\Exer02\bin\Debug\Exer02.pdb
+D:\OlaMundo\OlaMundo\Exer02\obj\Debug\Exer02.csproj.AssemblyReference.cache
+D:\OlaMundo\OlaMundo\Exer02\obj\Debug\Exer02.csproj.CoreCompileInputs.cache
+D:\OlaMundo\OlaMundo\Exer02\obj\Debug\Exer02.exe
+D:\OlaMundo\OlaMundo\Exer02\obj\Debug\Exer02.pdb
