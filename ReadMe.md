@@ -6,4 +6,4 @@
   <h2> Mais funçoes</h2>
  E também o projeto simula venda entre o fornecedor e o vendedor de uma loja de produtos, onde o vendedor escolhe os produtos e a quantidade deles.
   E o cliente que criou a conta no banco poder ir ao vendedor e comprar um de seus produtos, dependendo do saldo da conta dele, ele não irá conseguir comprar<p>
-Este projeto ainda não está completo, e irá sofrer alterações em breve.
+Este projeto ainda não está completo, porém foi feito para introduzir o conceito de POO.
